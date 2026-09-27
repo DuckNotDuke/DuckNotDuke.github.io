@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="assets/styles/rss.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>Cappu</title>
+  <subtitle>TTRPG, Worldbuilding, Meshtastic, &amp; more!</subtitle>
+  <link href="https://cappu.neocities.org/feed.xml" rel="self" />
+  <link href="https://cappu.neocities.org/" />
+  <updated>2026-06-30T22:41:11Z</updated>
+  <id>https://cappu.neocities.org/</id>
+  <author>
+    <name>Duck</name>
+  </author>
+  <entry>
+    <title>The Apu - V1</title>
+    <link href="https://cappu.neocities.org/posts/The-Apu-V1/" />
+    <updated>2026-06-30T22:41:11Z</updated>
+    <id>https://cappu.neocities.org/posts/The-Apu-V1/</id>
+    <content type="html">&lt;p&gt;The Apu is based of the Capybara. I will give more of their lore when I finish the species of Kalsier. Right now, it is mostly a slightly modifide Halfling.&lt;/p&gt;
+&lt;h1&gt;The Apu Traits&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Size: Small
+Creature type: Humaniod
+Speed: 40ft&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Swimmer.&lt;/strong&gt;&lt;/em&gt;  You have a swim speed equal to your walking speed, and can hold your breath for up to 10 minutes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Calm as an Pound.&lt;/strong&gt;&lt;/em&gt; You have Advantage on saving throws you make to avoid or end the Frightened condition.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Nimbleness.&lt;/strong&gt;&lt;/em&gt; You can move through the space of any creature that is a size larger than you, but you can’t stop in the same space.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Luck.&lt;/strong&gt;&lt;/em&gt; When you roll a 1 on the d20 of a D20 Test, you can reroll the die, and you must use the new roll.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Naturally Stealthy.&lt;/strong&gt;&lt;/em&gt; You can take the Hide action even when you are obscured only by a creature that is at least one size larger than you.&lt;/p&gt;
+&lt;h1&gt;&lt;strong&gt;Crowd Calmer&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Racial Feat&lt;/em&gt;
+&lt;strong&gt;Requirements:&lt;/strong&gt; 4th level, species is a Apu&lt;/p&gt;
+&lt;p&gt;You can cast Sanctuary on yourself a number of times equal to your proficiency bonus per long rest. Additionally you may cast Calm Emotions once per long rert.&lt;/p&gt;
+&lt;p&gt;To cast these spells you do not need to use material components, and the verbal incantations are soothing words.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>The Three Rounds Rule - Fixing Stale Combat</title>
+    <link href="https://cappu.neocities.org/posts/the-three-rounds-rule/" />
+    <updated>2026-06-30T21:09:43Z</updated>
+    <id>https://cappu.neocities.org/posts/the-three-rounds-rule/</id>
+    <content type="html">&lt;p&gt;D&amp;amp;D combat can become quite stale by the fourth round, but I have here something that can help.&lt;/p&gt;
+&lt;p&gt;It is really quite simple, every three rounds of combat switch something up. Here are some examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;While the players are raiding a thieves guild safe-house, the guard arrives and mistakes the players as another group of thugs.&lt;/li&gt;
+&lt;li&gt;After a failed ambush, the Kobolds retreat, leading combat into a new environment.&lt;/li&gt;
+&lt;li&gt;The arch-mage has been saving their uses of a powerful spell.
+In the event that combat goes for nine rounds, as a DM you need to end combat, even if just temporarily. Maybe the enemies flee creating a chase scene, or maybe try to negotiate, creating an interesting social interaction. Anything to create a break from combat. If combat starts again, it will be after a break and probably under new circumstance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One last thing, this is not something you actively tell your players you are doing, as it may break immersion a little. As Sun Tzu said “Let your plans be dark and impenetrable as night...&amp;quot;&lt;/p&gt;
+&lt;p&gt;&amp;quot;...and when you move, fall like a thunderbolt.&amp;quot;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Meshtastic - Decentralized Private Communication</title>
+    <link href="https://cappu.neocities.org/posts/Meshtastic-Intro/" />
+    <updated>2026-06-29T21:25:32Z</updated>
+    <id>https://cappu.neocities.org/posts/Meshtastic-Intro/</id>
+    <content type="html">&lt;h1&gt;Meshtastic Overview&lt;/h1&gt;
+&lt;p&gt;Meshtastic is a decentralized radio network that works by when one node gets a message, it rebroadcast it further, even if the message is encrypted. There for, the more people that join, the better it gets. A node can be quite inexpensive if you dont mind it connecting to an app/website on your phone or PC, which is adless and open source (and so is the meshtastic device itself, which is awsome). There is an app and website for both PC and Mobile&lt;/p&gt;
+&lt;h1&gt;How big is the mesh?&lt;/h1&gt;
+&lt;p&gt;I live in a pretty average city area, and I have so far detected 120 nodes, but there is definitely more. It is quite reliable with an okay antenna, especially in some areas.&lt;/p&gt;
+&lt;h1&gt;More Info&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://meshtastic.org/&quot;&gt;Official Meshtastic Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://meshtastic.org/docs/hardware/devices/heltec-automation/lora32/?heltec=v3&quot;&gt;HELTEC LoRa 32 Information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;I would suggest either a V3 or V4 Heltec LoRa 32 radio. The V4 is more future proof. I have a V3.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Purchase links for V3&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;United States&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://muzi.works/products/heltec-wifi-lora-32-v3&quot;&gt;muzi ᴡᴏʀᴋꜱ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.rokland.com/collections/heltec-products/products/heltec-wifi-lora-32v3&quot;&gt;Rokland&lt;/a&gt;
+&lt;strong&gt;International&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://heltec.org/project/wifi-lora-32-v3/&quot;&gt;Heltec&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.aliexpress.us/item/3256807466584635.html&quot;&gt;AliExpress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://msh.to/hexaspot-heltec-v3/&quot;&gt;Hexaspot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.com/ESP32-V3-Module-3000mAh-Battery/dp/B0D2WXLZXQ&quot;&gt;Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;V4 Purchase Links&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;US&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://store.rokland.com/products/heltec-wifi-lora-32v4-esp32s3-sx1262-lora-node-meshtastic-lorawan&quot;&gt;Rokland&lt;/a&gt;
+&lt;strong&gt;International&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://msh.to/heltec-v4/&quot;&gt;Heltec&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://msh.to/hexaspot-heltec-v4/&quot;&gt;Hexaspot&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What you are looking for&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Built in OLED Screen&lt;/li&gt;
+&lt;li&gt;Battery&lt;/li&gt;
+&lt;li&gt;Antenna (for testing it out before we get nicer antennas)&lt;/li&gt;
+&lt;li&gt;Case/plastic optional. You can 3d print one. Just search &amp;quot;Heltec Lora V3/4 3d printed case.&amp;quot;&lt;/li&gt;
+&lt;li&gt;Can support the frequency 906.875 MHz, which us the US frequency.&lt;/li&gt;
+&lt;li&gt;Built in Bluetooth chip (both the V3 and V4 should have one, but just make sure).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;What antenna should I upgrade to?&lt;/h1&gt;
+&lt;p&gt;I personally got the white version of &lt;a href=&quot;https://www.amazon.com/dp/B0fgxnt1mz&quot;&gt;THIS&lt;/a&gt; antenna. My friend who referred it to me told me that the white one had better range for some reason.&lt;/p&gt;
+</content>
+  </entry>
+</feed>
