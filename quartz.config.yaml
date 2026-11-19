@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Pilot Down
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -231,8 +231,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/DuckNotDuke/DuckNotDuke.github.io
+        © 2026 Pilot Down Press. All rights reserved
     layout:
       position: footer
       priority: 50
