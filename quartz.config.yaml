@@ -232,7 +232,7 @@ plugins:
     options:
       links:
         GitHub: https://github.com/DuckNotDuke/DuckNotDuke.github.io
-        © 2026 Pilot Down Press. All rights reserved
+        © 2026 Pilot Down Press. All rights reserved: https://ducknotduke.github.io/
     layout:
       position: footer
       priority: 50
