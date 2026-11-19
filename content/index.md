@@ -1,6 +1,6 @@
 ---
 title: Welcome to Quartz
+banner_y: 50.0%
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to Pilot Down! Here I will be sharing my worldbuilding. I don't really have much to say here, I will likely later, but for now, have a look around!
