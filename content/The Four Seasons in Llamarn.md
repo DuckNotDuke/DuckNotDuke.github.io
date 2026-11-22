@@ -2,6 +2,11 @@
 tags:
   - WIP
 World: Llamarn
+aliases:
+  - Monsoon
+  - Drizzle
+  - Monsoon Rise
+  - Monsoon Fall
 ---
 Four Seasons (Unique names still to come):
 - Monsoon Fall: Temperatures rise, going from Monsoon's cold rainy weather around 40 degrees Fahrenheit to Drizzle's 80. Rain levels drop, and the planting season begins.
