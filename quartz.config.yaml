@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: DuckNotDuke.github/atlas
+  baseUrl: DuckNotDuke.github/
   ignorePatterns:
     - private
     - templates
