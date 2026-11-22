@@ -46,7 +46,6 @@ plugins:
     options:
       theme: "catppuccin"
       variation: "mocha"
-      mode: "dark"
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
