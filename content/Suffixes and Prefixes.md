@@ -18,3 +18,5 @@ These are the suffixes/prefixes I use to help make names for places.
 5. Von: River or body of water.
 6. Mer: Fog.
 7. Kest: Settlement.
+## Banned Combos
+1. Th, as in non voiced version, as in theater. Instead, use "k," so theater would become keater.

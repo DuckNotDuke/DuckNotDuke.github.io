@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Pilot Down
+  pageTitle: South Rain
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: DuckNotDuke.github/
+  baseUrl: southrain.net
   ignorePatterns:
     - private
     - templates
@@ -232,7 +232,7 @@ plugins:
     options:
       links:
         GitHub: https://github.com/DuckNotDuke/DuckNotDuke.github.io
-        © 2026 Pilot Down Press. All rights reserved.: https://ducknotduke.github.io/
+        © 2026 South Rain Press. All rights reserved.: https://ducknotduke.github.io/
     layout:
       position: footer
       priority: 50
