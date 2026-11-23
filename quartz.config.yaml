@@ -114,7 +114,13 @@ plugins:
 
 
 
-
+  - source: "@quartz-themes/core"
+    enabled: true
+    options:
+      theme: tokyo-night
+      mode: both
+      themeFonts: true
+    order: 10
 
 
 
@@ -280,13 +286,6 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
-  - source: "@quartz-themes/core"
-    enabled: true
-    options:
-      theme: tokyo-night
-      mode: both
-      themeFonts: true
-    order: 10
 layout:
   groups:
     toolbar:
