@@ -41,6 +41,12 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  - plugins:
+  - source: "@quartz-themes/core"
+    enabled: true
+    options:
+      theme: catppuccin.mocha # Or catppuccin.frappe / catppuccin.macchiato
+      mode: both
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
@@ -278,6 +284,13 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: "@quartz-themes/core"
+    enabled: true
+    options:
+      theme: tokyo-night
+      mode: both
+      themeFonts: true
+    order: 10
 layout:
   groups:
     toolbar:
