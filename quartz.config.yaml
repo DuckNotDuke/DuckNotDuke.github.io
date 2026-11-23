@@ -42,11 +42,6 @@ configuration:
         textHighlight: "#b3aa0288"
 plugins:
   - plugins:
-  - source: "@quartz-themes/core"
-    enabled: true
-    options:
-      theme: catppuccin.mocha # This is the catppuccin theme thing.
-      mode: both
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
@@ -116,7 +111,13 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
-# Here was were the its theme was
+
+
+
+
+
+
+
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
