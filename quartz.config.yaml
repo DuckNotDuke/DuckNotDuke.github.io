@@ -169,8 +169,8 @@ plugins:
       enableRSS: true
   - source: "@quartz-community/favicon"
     enabled: true
-  - source: "@quartz-community/og-image"
-    enabled: true
+  - source: "@quartz-community/og-image" # This makes it so when you send your site address in something like discord the image that appears shows a preview of the pages title and text.
+    enabled: false # I have disabled it so it instead shows the same image for all pages.
   - source: "@quartz-community/cname"
     enabled: true
   - source: "@quartz-community/canvas-page"
