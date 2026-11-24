@@ -133,7 +133,7 @@ plugins:
     enabled: true
     options:
       theme: "catppuccin"
-      variation: "frappe"
+      variation: "mocha"
       mode: "both"
 
 
