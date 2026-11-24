@@ -5,7 +5,8 @@ When  worldbuilding Llimarn clothing, I have had two main influences from mediev
 - Leather rain boots.
 - A pair of flax shoes worn inside commonly kept in small leather bags.
 # Hats
-Hats are commonly worn in two pieces, a wool beanie like hat covered by a conical hat. The beanie is made of alpaca wool, and purpose is to keep peoples heads warm. The conical hat acts like a portable roof or awning.
+Hats are commonly worn in two pieces, a wool beanie like hat covered by a conical hat. The beanie is made of alpaca wool, and purpose is to keep peoples heads warm. The conical hat acts like a portable roof or awning. T+
+o make a Polmap grass hat, one cuts down a area of Polmap grass during [[The Four Seasons in Llimarn|Monsoon]], when they are at their tallest. These blades are weaved into a cone shape and this limp cone grass fabric is placed on a wooden frame to dry until [[The Four Seasons in Llimarn|Monsoon Fall]], at which point they are coated with a layer of tree sap until being attached to a wooden frame to make it so they can be worn.
 # Questions I Need To Answer
 - [ ] What are the differences of men's and women's clothing?
 - [ ] What animal do they get leather from?
