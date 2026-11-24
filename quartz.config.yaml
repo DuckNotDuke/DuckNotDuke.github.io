@@ -132,9 +132,9 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: "catppuccin"
+      theme: catppuccin
       variation: mocha
-      mode: "both"
+      mode: both
 
 
 # --------------- THEMES --------------- #
