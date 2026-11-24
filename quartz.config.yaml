@@ -111,8 +111,11 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
 
+# --------------- THEMES --------------- #
+
+
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: its-theme
       variation: ttrpg-dnd
@@ -126,7 +129,15 @@ plugins:
       themeFonts: true
     order: 10
 
+  - source: "@quartz-themes/core"
+    enabled: true
+    options:
+      theme: "catppuccin"
+      variation: "frappe"
+      mode: "both"
 
+
+# --------------- THEMES --------------- #
 
   - source: "@quartz-community/remove-draft"
     enabled: true
