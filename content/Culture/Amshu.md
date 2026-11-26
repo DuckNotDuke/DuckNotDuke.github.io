@@ -1,1 +1,0 @@
-An Amshu is a animal that is a combination of two other speices, such as the [[Eagoosel]].
