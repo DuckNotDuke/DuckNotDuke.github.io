@@ -1,7 +1,7 @@
 ---
 tags:
   - WIP
-World: Llamarn
+World: Llimarn
 aliases:
   - Monsoon
   - Drizzle

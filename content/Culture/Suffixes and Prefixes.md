@@ -1,3 +1,7 @@
+---
+World: Llimarn
+banner_y: 50.0%
+---
 These are the suffixes/prefixes I use to help make names for places.
 # Llimarn
 1. Shu/Su: Means middle man, or a in between location.

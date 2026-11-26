@@ -1,0 +1,1 @@
+A Hethsune is a human who has physical characteristics of another mammalian spieces. An example is someone having the antlers of a deer. These characteristics are passed down through generations. A person is born with characteristics of no more than one other species. For the origins of Hethsunes, see [[Origin of Llimarn's  Animals and Monsters]].
